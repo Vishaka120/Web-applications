@@ -2,7 +2,7 @@ import React from "react";
 import "./PageOne.css";
 import confImg from "./everyone-is-smiling-listens-group-people-business-conference-modern-classroom-daytime 1.png";
 import officeImg from "./group-business-workers-smiling-happy-confident-working-together-with-smile-face-applauding-one-them-office 1.png";
-function FrameThree() {
+function PageOne() {
   return (
     <React.Fragment>
       <div className="frame-3">
@@ -304,4 +304,4 @@ function FrameThree() {
   );
 }
 
-export default FrameThree;
+export default PageOne;

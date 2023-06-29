@@ -1,0 +1,415 @@
+.frame-78, .frame-78 * {
+    box-sizing: border-box;
+    }
+.frame-78 {
+   width: 1440px;
+    height: 691px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.group-79 {
+   position: absolute;
+    inset: 0;
+   }
+
+.line-1 {
+   position: absolute;
+    left: 1px;
+   top: 0px;
+    overflow: visible;
+   }
+
+.line-2 {
+   position: absolute;
+    left: 2px;
+   top: 18px;
+    overflow: visible;
+   }
+
+.line-3 {
+   position: absolute;
+    left: 3px;
+   top: 37px;
+    overflow: visible;
+   }
+
+.podcast {
+   color:  #eeeeee;
+    text-align: left;
+    font: 700 150px 'Poppins', sans-serif;
+    position: absolute;
+    left: 837px;
+   top: 119px;
+    width: 641px;
+    height: 158px;
+   }
+
+.group-78 {
+   position: absolute;
+    inset: 0;
+   }
+
+.frame-77 {
+   display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 492px;
+   top: 76px;
+   }
+
+.title {
+   display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.choose-your-plan {
+   color: #000000;
+    text-align: left;
+    font: var(--heading-heading-3, 700 32px 'Inter', sans-serif);
+    position: relative;
+   }
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s {
+   color: #000000;
+    text-align: center;
+    font: var(--text-14-regular, 400 14px 'Poppins', sans-serif);
+    position: relative;
+    width: 455px;
+   }
+
+.radio {
+   background: #ffffff;
+    border-radius: 10px;
+    padding: 6px 16px 6px 6px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    height: 37px;
+    position: relative;
+    box-shadow: 0px 10px 30px 0px rgba(154, 148, 148, 0.25);
+   }
+
+.frame-6 {
+   background: var(--light, rgba(225, 166, 255, 0.40));
+    border-radius: 10px;
+    padding: 3px 9px 3px 9px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.monthly {
+   color: #000000;
+    text-align: center;
+    font: var(--text-14-regular, 400 14px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.yearly {
+   color: #000000;
+    text-align: center;
+    font: var(--text-14-regular, 400 14px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.group-77 {
+   width: 1090px;
+    height: 357px;
+    position: static;
+   }
+
+.plan {
+    max-width: 303px;
+    max-height: 357px;
+   background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: var(--ghost, #7a3199);
+    border-width: 0.5px;
+    padding: 35px 27px 35px 27px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 175px;
+   top: 296px;
+   }
+
+.frame-1 {
+   display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 249px;
+    position: relative;
+   }
+
+.basic-plan {
+   color: #000000;
+    text-align: left;
+    font: var(--text-16-bold, 700 16px 'Inter', sans-serif);
+    position: relative;
+   }
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting {
+   color: #000000;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+    width: 264px;
+   }
+
+.frame-12 {
+   display: flex;
+    flex-direction: row;
+    gap: 19px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+._54 {
+   color: var(--ghost, #7a3199);
+    text-align: left;
+    font: 700 32px 'Inter', sans-serif;
+    position: relative;
+   }
+
+.month {
+   color: var(--ghost, #7a3199);
+    text-align: left;
+    font: var(--text-14-light, 400 14px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.frame-16 {
+   display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.frame-13 {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vector {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.free-access-to-video-class {
+   color: #000000;
+    text-align: left;
+    font: 700 12px 'Inter', sans-serif;
+    position: relative;
+   }
+
+.frame-2-pg-3 {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vector2 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-3-pg-3 {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.vector3 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-17 {
+   border-radius: 5px;
+    border-style: solid;
+    border-color: var(--ghost, #7a3199);
+    border-width: 0.5px;
+    flex-shrink: 0;
+    width: 149px;
+    height: 44px;
+    position: relative;
+   }
+
+.start-free-trial {
+   color: var(--ghost, #7a3199);
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: absolute;
+    left: 31px;
+   top: 14px;
+   }
+
+.plan2 {
+    max-width: 303px;
+    max-height: 357px;
+   background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: var(--ghost, #7a3199);
+    border-width: 0.5px;
+    padding: 35px 27px 35px 27px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 962px;
+   top: 296px;
+   }
+
+.vector4 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.vector5 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.vector6 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.plan3 {
+    max-width: 303px;
+    max-height: 357px;
+   background: var(--ghost, #7a3199);
+    border-radius: 10px;
+    padding: 35px 27px 35px 27px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 568px;
+   top: 296px;
+   }
+
+.basic-plan2 {
+   color: var(--default-white, #ffffff);
+    text-align: left;
+    font: var(--text-16-bold, 700 16px 'Inter', sans-serif);
+    position: relative;
+   }
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting2 {
+   color: var(--default-white, #ffffff);
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+    width: 264px;
+   }
+
+._542 {
+   color: var(--default-white, #ffffff);
+    text-align: left;
+    font: 700 32px 'Inter', sans-serif;
+    position: relative;
+   }
+
+.month2 {
+   color: var(--default-white, #ffffff);
+    text-align: left;
+    font: var(--text-14-light, 400 14px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.vector7 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.free-access-to-video-class2 {
+   color: var(--default-white, #ffffff);
+    text-align: left;
+    font: 700 12px 'Inter', sans-serif;
+    position: relative;
+   }
+
+.vector8 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.vector9 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-172 {
+   background: var(--default-white, #ffffff);
+    border-radius: 5px;
+    flex-shrink: 0;
+    width: 149px;
+    height: 44px;
+    position: relative;
+   }
+
+.start-free-trial2 {
+   color: #7a3199;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: absolute;
+    left: 31px;
+   top: 14px;
+   }
+

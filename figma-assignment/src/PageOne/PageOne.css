@@ -1,0 +1,743 @@
+.frame-3,
+.frame-3 * {
+  box-sizing: border-box;
+}
+.frame-3 {
+  width: 1439px;
+  height: 652px;
+  position: relative;
+  overflow: hidden;
+}
+.content {
+  position: absolute;
+  inset: 0;
+}
+.title {
+  width: 580px;
+  height: 214.45px;
+  position: static;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-in-ustry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s {
+  color: #ffffff;
+  text-align: left;
+  font: var(--text-16-regular, 400 16px "Inter", sans-serif);
+  position: absolute;
+  left: 175px;
+  top: 245.7px;
+  width: 433px;
+  height: 62.75px;
+}
+.learn-how-to-launch-a-successful-podcast {
+  color: #ffffff;
+  text-align: left;
+  font: var(--heading-heading-1, 700 48px "Inter", sans-serif);
+  position: absolute;
+  left: 175px;
+  top: 94px;
+  width: 580px;
+  height: 127.7px;
+}
+.button.frameThree{
+ 
+  border-radius: 10px;
+  width: 237px;
+  height: 74.86px;
+  position: absolute;
+  left: 175px;
+  top: 390.14px;
+}
+.sign-up-now {
+  color: #ffffff;
+  text-align: left;
+  font: var(--text-20-bold, 700 20px "Poppins", sans-serif);
+  position: absolute;
+  left: 55px;
+  top: 19px;
+}
+.group-75 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-27 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 774.1px;
+  top: 153.96px;
+}
+.ellipse-37 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 774.1px;
+  top: 213.96px;
+}
+.ellipse-47 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 774.1px;
+  top: 273.96px;
+}
+.ellipse-57 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 774.1px;
+  top: 333.96px;
+}
+.ellipse-67 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 774.1px;
+  top: 393.96px;
+}
+.ellipse-77 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 774.1px;
+  top: 453.96px;
+}
+.ellipse-87 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 774.1px;
+  top: 513.96px;
+}
+.ellipse-28 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 834.1px;
+  top: 153.96px;
+}
+.ellipse-38 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 834.1px;
+  top: 213.96px;
+}
+.ellipse-48 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 834.1px;
+  top: 273.96px;
+}
+.ellipse-58 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 834.1px;
+  top: 333.96px;
+}
+.ellipse-68 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 834.1px;
+  top: 393.96px;
+}
+.ellipse-78 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 834.1px;
+  top: 453.96px;
+}
+.ellipse-88 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 834.1px;
+  top: 513.96px;
+}
+.ellipse-29 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 894.1px;
+  top: 153.96px;
+}
+.ellipse-39 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 894.1px;
+  top: 213.96px;
+}
+.ellipse-49 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 894.1px;
+  top: 273.96px;
+}
+.ellipse-59 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 894.1px;
+  top: 333.96px;
+}
+.ellipse-69 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 894.1px;
+  top: 393.96px;
+}
+.ellipse-79 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 894.1px;
+  top: 453.96px;
+}
+.ellipse-89 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 894.1px;
+  top: 513.96px;
+}
+.ellipse-30 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 954.1px;
+  top: 153.96px;
+}
+.ellipse-40 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 954.1px;
+  top: 213.96px;
+}
+.ellipse-50 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 954.1px;
+  top: 273.96px;
+}
+.ellipse-60 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 954.1px;
+  top: 333.96px;
+}
+.ellipse-70 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 954.1px;
+  top: 393.96px;
+}
+.ellipse-80 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 954.1px;
+  top: 453.96px;
+}
+.ellipse-90 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 954.1px;
+  top: 513.96px;
+}
+.ellipse-31 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1014.1px;
+  top: 153.96px;
+}
+.ellipse-41 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1014.1px;
+  top: 213.96px;
+}
+.ellipse-51 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1014.1px;
+  top: 273.96px;
+}
+.ellipse-61 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1014.1px;
+  top: 333.96px;
+}
+.ellipse-71 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1014.1px;
+  top: 393.96px;
+}
+.ellipse-81 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1014.1px;
+  top: 453.96px;
+}
+.ellipse-91 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1014.1px;
+  top: 513.96px;
+}
+.ellipse-32 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1074.1px;
+  top: 153.96px;
+}
+.ellipse-42 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1074.1px;
+  top: 213.96px;
+}
+.ellipse-52 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1074.1px;
+  top: 273.96px;
+}
+.ellipse-62 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1074.1px;
+  top: 333.96px;
+}
+.ellipse-72 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1074.1px;
+  top: 393.96px;
+}
+.ellipse-82 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1074.1px;
+  top: 453.96px;
+}
+.ellipse-92 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1074.1px;
+  top: 513.96px;
+}
+.ellipse-33 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1134.1px;
+  top: 153.96px;
+}
+.ellipse-43 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1134.1px;
+  top: 213.96px;
+}
+.ellipse-53 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1134.1px;
+  top: 273.96px;
+}
+.ellipse-63 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1134.1px;
+  top: 333.96px;
+}
+.ellipse-73 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1134.1px;
+  top: 393.96px;
+}
+.ellipse-83 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1134.1px;
+  top: 453.96px;
+}
+.ellipse-93 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1134.1px;
+  top: 513.96px;
+}
+.ellipse-34 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1194.1px;
+  top: 153.96px;
+}
+.ellipse-44 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1194.1px;
+  top: 213.96px;
+}
+.ellipse-54 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1194.1px;
+  top: 273.96px;
+}
+.ellipse-64 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1194.1px;
+  top: 333.96px;
+}
+.ellipse-74 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1194.1px;
+  top: 393.96px;
+}
+.ellipse-84 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1194.1px;
+  top: 453.96px;
+}
+.ellipse-94 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1194.1px;
+  top: 513.96px;
+}
+.ellipse-35 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1254.1px;
+  top: 153.96px;
+}
+.ellipse-45 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1254.1px;
+  top: 213.96px;
+}
+.ellipse-55 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1254.1px;
+  top: 273.96px;
+}
+.ellipse-65 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1254.1px;
+  top: 333.96px;
+}
+.ellipse-75 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1254.1px;
+  top: 393.96px;
+}
+.ellipse-85 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1254.1px;
+  top: 453.96px;
+}
+.ellipse-95 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1254.1px;
+  top: 513.96px;
+}
+.ellipse-36 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1314.1px;
+  top: 153.96px;
+}
+.ellipse-46 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1314.1px;
+  top: 213.96px;
+}
+.ellipse-56 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1314.1px;
+  top: 273.96px;
+}
+.ellipse-66 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1314.1px;
+  top: 333.96px;
+}
+.ellipse-76 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1314.1px;
+  top: 393.96px;
+}
+.ellipse-86 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1314.1px;
+  top: 453.96px;
+}
+.ellipse-96 {
+  background: var(--secondary, #7a3199);
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 1314.1px;
+  top: 513.96px;
+}
+.everyone-is-smiling-listens-group-people-business-conference-modern-classroom-daytime-1 {
+  border-radius: 10px;
+  width: 491px;
+  height: 281px;
+  position: absolute;
+  left: 773px;
+  top: 94px;
+}
+.group-business-workers-smiling-happy-confident-working-together-with-smile-face-applauding-one-them-office-1 {
+  border-radius: 10px;
+  width: 491px;
+  height: 281px;
+  position: absolute;
+  left: 720px;
+  top: 184px;
+}
+.streamline-computer-voice-mail-mic-audio-mike-music-microphone {
+  background: #ffffff;
+  border-radius: 5px;
+  padding: 2px 7px 2px 7px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 63px;
+  height: 62px;
+  position: absolute;
+  left: 1253.19px;
+  top: 431px;
+  box-shadow: 0px 10px 40px 0px rgba(154, 148, 148, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(15.135deg) scale(1, 1);
+}
+.group {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.solar-podcast-outline {
+  border-radius: 5px;
+  padding: 7px 3px 7px 3px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1295px;
+  top: 264.82px;
+  transform: translate(-38.77px, -47.59px);
+  overflow: visible;
+}

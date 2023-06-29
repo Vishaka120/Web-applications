@@ -1,0 +1,153 @@
+.frame-2, .frame-2 * {
+    box-sizing: border-box;
+    }
+.frame-2 {
+   padding: 49px 168px 49px 168px;
+    width: 1439px;
+    height: 525px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.course {
+   position: absolute;
+    inset: 0;
+   }
+
+.course2 {
+   border-radius: 10px;
+    border-style: solid;
+    border-color: var(--secondary, #7a3199);
+    border-width: 0.5px;
+    padding: 30px ;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 175.5px;
+   top: 49px;
+    overflow: hidden;
+   }
+
+.interactive-features {
+   color: #000000;
+    text-align: left;
+    font: var(--text-20-bold, 700 20px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been {
+   color: #000000;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+    width: 208px;
+   }
+
+.course3 {
+   border-radius: 10px;
+    border-style: solid;
+    border-color: var(--secondary, #7a3199);
+    border-width: 0.5px;
+    padding: 30px ;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 175.5px;
+   top: 263px;
+    overflow: hidden;
+   }
+
+.course-1 {
+   border-radius: 10px;
+    border-style: solid;
+    border-color: var(--secondary, #7a3199);
+    border-width: 0.5px;
+    padding: 30px ;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 459.5px;
+   top: 72px;
+    overflow: hidden;
+   }
+
+.course-12 {
+   border-radius: 10px;
+    border-style: solid;
+    border-color: var(--secondary, #7a3199);
+    border-width: 0.5px;
+    padding: 30px ;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 459.5px;
+   top: 286px;
+    overflow: hidden;
+   }
+
+.frame-76 {
+   display: flex;
+    flex-direction: column;
+    gap: 48px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 847.5px;
+   top: 125.5px;
+   }
+
+.title {
+   display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.about-the-course {
+   color: #000000;
+    text-align: left;
+    font: var(--heading-heading-1, 700 48px 'Inter', sans-serif);
+    position: relative;
+   }
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unkno {
+   color: #000000;
+    text-align: left;
+    font: var(--text-14-regular, 400 14px 'Poppins', sans-serif);
+    position: relative;
+    width: 367px;
+   }
+
+.button {
+   background: linear-gradient(90deg, rgba(71, 118, 230, 1.00) 0%,rgba(142, 84, 233, 1.00) 100%);
+    border-radius: 10px;
+    flex-shrink: 0;
+    width: 237px;
+    height: 60px;
+    position: relative;
+   }
+
+.explore-now {
+   color: #ffffff;
+    text-align: left;
+    font: var(--text-20-bold, 700 20px 'Poppins', sans-serif);
+    position: absolute;
+    left: 56px;
+   top: 15px;
+   }
+

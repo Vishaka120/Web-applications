@@ -1,0 +1,375 @@
+.frame-86, .frame-86 * {
+    box-sizing: border-box;
+    }
+.frame-86 {
+   width: 1440px;
+    height: 512px;
+    position: relative;
+   }
+
+.frame-84 {
+   display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 630px;
+   top: 467px;
+   }
+
+.radix-icons-dot-filled {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.radix-icons-dot-filled2 {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.radix-icons-dot-filled3 {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.radix-icons-dot-filled4 {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.radix-icons-dot-filled5 {
+   display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-83 {
+   width: 1459px;
+    height: 378px;
+    position: absolute;
+    left: 175px;
+   top: 57px;
+   }
+
+.frame-82 {
+   display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+   }
+
+.review-from-customers {
+   color: #000000;
+    text-align: left;
+    font: var(--heading-heading-2, 700 40px 'Inter', sans-serif);
+    position: relative;
+   }
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry {
+   color: #000000;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+    width: 399px;
+   }
+
+.frame-81 {
+   width: 1459px;
+    height: 238px;
+    position: absolute;
+    left: 0px;
+   top: 140px;
+   }
+
+.frame-18 {
+   background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: var(--light, rgba(225, 166, 255, 0.40));
+    border-width: 0.5px;
+    padding: 36px 48px 36px 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0px;
+   top: 0px;
+    box-shadow: 0px 16px 40px 0px rgba(154, 148, 148, 0.25);
+   }
+
+.frame-23 {
+   display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.frame-22 {
+   display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.lolla-1 {
+   border-radius: 56.5px;
+    flex-shrink: 0;
+    width: 70px;
+    height: 70px;
+    position: relative;
+   }
+
+.frame-21 {
+   display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.frame-19 {
+   display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.lolla-smith {
+   color: #000000;
+    text-align: left;
+    font: var(--text-16-bold, 700 16px 'Inter', sans-serif);
+    position: relative;
+    width: 88px;
+    height: 16px;
+   }
+
+.microsoft {
+   color: #000000;
+    text-align: left;
+    font: var(--text-14-regular, 400 14px 'Poppins', sans-serif);
+    position: relative;
+    width: 65px;
+    height: 16px;
+   }
+
+.frame-20 {
+   display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.fluent-emoji-flat-star {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star2 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star3 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star4 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star5 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make {
+   color: #000000;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+    width: 369px;
+   }
+
+.frame-79 {
+   background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: var(--light, rgba(225, 166, 255, 0.40));
+    border-width: 0.5px;
+    padding: 36px 48px 36px 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 497px;
+   top: 0px;
+   }
+
+.fluent-emoji-flat-star6 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star7 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star8 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star9 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star10 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-80 {
+   background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: var(--light, rgba(225, 166, 255, 0.40));
+    border-width: 0.5px;
+    padding: 36px 48px 36px 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 994px;
+   top: 0px;
+   }
+
+.fluent-emoji-flat-star11 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star12 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star13 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star14 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.fluent-emoji-flat-star15 {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-85 {
+   background: var(--light, rgba(225, 166, 255, 0.40));
+    border-radius: 100px;
+    padding: 5px ;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 994px;
+   top: 81px;
+    box-shadow: 0px 16px 40px 0px rgba(154, 148, 148, 0.25);
+    overflow: hidden;
+   }
+
+.pepicons-pencil-arrow-right {
+   border-radius: 80px;
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.group {
+   position: absolute;
+    left: 9px;
+   top: 11px;
+    overflow: visible;
+   }
+

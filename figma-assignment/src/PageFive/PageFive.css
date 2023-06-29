@@ -1,0 +1,173 @@
+.frame-87, .frame-87 * {
+    box-sizing: border-box;
+    }
+.frame-87 {
+   /* width: 1440px; */
+    height: 493px;
+    position: relative;
+    overflow: hidden;
+   }
+
+.polygon-2 {
+   position: absolute;
+    left: 1681.31px;
+   top: 284.07px;
+    transform: translate(-1681.31px, -277.57px);
+    overflow: visible;
+   }
+
+.frame-88 {
+   border-style: solid;
+    border-color: var(--default-white, #ffffff);
+    border-width: 0.5px 0px 0px 0px;
+    padding: 20px 0px 20px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 192px;
+    align-items: center;
+    justify-content: center;
+    width: 995px;
+    height: 74px;
+    position: absolute;
+    left: 222px;
+   top: 419px;
+    overflow: hidden;
+   }
+
+.all-right-reserved-copyright-2023 {
+   color: #ffffff;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.frame-79-pg-5 {
+   display: flex;
+    flex-direction: row;
+    gap: 64px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.frame-89 {
+   display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.terms-of-service {
+   color: #ffffff;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.privacy-policy {
+   color: #ffffff;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.product {
+   color: #ffffff;
+    text-align: left;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+   }
+
+.frame-90 {
+   display: flex;
+    flex-direction: row;
+    gap: 16px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 144px;
+    position: relative;
+   }
+
+.mdi-facebook {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.uil-youtube {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.basil-instagram-solid {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.uil-twitter {
+   flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+   }
+
+.frame-92 {
+   display: flex;
+    flex-direction: column;
+    gap: 64px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: 422px;
+   top: 68px;
+   }
+
+.frame-91 {
+   display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+   }
+
+.we-have-what-you-re-looking-for {
+   color: #000000;
+    text-align: left;
+    font: var(--heading-heading-3, 700 32px 'Inter', sans-serif);
+    position: relative;
+   }
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-a {
+   color: linear-gradient(90deg, rgba(71, 118, 230, 1.00) 0%,rgba(142, 84, 233, 1.00) 100%);
+    text-align: center;
+    font: var(--text-12-regular, 400 12px 'Poppins', sans-serif);
+    position: relative;
+    width: 596px;
+   }
+
+.button {
+   background:  linear-gradient(90deg, rgba(71, 118, 230, 1.00) 0%,rgba(142, 84, 233, 1.00) 100%);
+    border-radius: 10px;
+    flex-shrink: 0;
+    width: 237px;
+    height: 60px;
+    position: relative;
+   }
+
+.get-started-now {
+   color: #ffffff;
+    text-align: left;
+    font: var(--text-20-bold, 700 20px 'Poppins', sans-serif);
+    position: absolute;
+    left: 36px;
+   top: 15px;
+   }
+

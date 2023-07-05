@@ -1,0 +1,32 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 100vw;
+  height: 100vh;
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(30, 54, 59, 1) 0%,
+    rgba(93, 93, 116, 1) 100%
+  );
+}
+#login-form {
+  background-color: white;
+  width: 70%;
+  border: 1px solid #dfdfdf;
+  padding: 20px;
+  border-radius: 5px;
+  display: block;
+}
+.form-field {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.form-error {
+  color: red;
+}

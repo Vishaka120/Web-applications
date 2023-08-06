@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./script.js"></script>
+    <title>Bundle and save</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <p class="header-text">Bundle & Save</p>
+        </div>
+        <div class="content">
+            <div class="num-pair">
+                <div class="card">
+                    <div class="pair-amt">
+                        <label class="radio-container">1 pair<p class="dkk">DKK 195.00</p>
+                            <input type="radio" name="radio" onclick="changeColor(this)">
+                            <span class="checkmark"></span>
+                          </label>
+                    </div>
+                    <div class="offer">
+                        <p>50% OFF</p>
+                    </div>
+                </div>
+            </div>
+            <div class="num-pair">
+                <div class="card">
+                    <div class="pair-amt">
+                        <label class="radio-container">2 pair<p class="dkk">DKK 345.00</p>
+                            <input type="radio" checked="checked" name="radio" onclick="changeColor(this)"">
+                            <span class="checkmark"></span>
+                          </label>
+                    </div>
+                    <p style="margin-top: 22px;font-size: 12px;color: #c8c8c8;"><s>DKK 345.00</s></p>
+                    <div class="offer">
+                        <p style="color:#007f61; font-weight: 600;">Most Popular</p>
+                        <p style="text-align: end;">40% OFF</p>
+                    </div>
+                </div>
+                <div id="dropdown" style="width:60%; text-align: center;">
+                    <div class="dropdown-header">
+                    <span>Size</span><span>Colour</span>
+                   </div>
+                    <div class="dropdown-size">
+                        <label for="size" style="font-size: 9px;">#1</label>
+                            <select name="cars" id="size">
+                                <option value="S">S</option>
+                                <option value="M">M</option>
+                                <option value="L">L</option>
+                                <option value="XL">XL</option>
+                            </select>
+                            
+                            <select name="colours" id="colours">
+                                <option value="colour">Colour</option>
+                                <option value="red">Red</option>
+                                <option value="Blue">Blue</option>
+                                <option value="green">Green</option>
+                            </select>
+                    </div>
+                    <div class="dropdown-colour" style="margin-bottom:20px">
+                        <label for="size" style="font-size: 9px;">#2</label>
+                            <select name="cars" id="size">
+                                <option value="S">S</option>
+                                <option value="M">M</option>
+                                <option value="L">L</option>
+                                <option value="XL">XL</option>
+                            </select>
+                            
+                            <select name="colours" id="colours">
+                                <option value="colour">Colour</option>
+                                <option value="red">Red</option>
+                                <option value="Blue">Blue</option>
+                                <option value="green">Green</option>
+                            </select>
+                    </div>
+                </div>
+            </div>
+            <div class="num-pair">
+                <div class="card">
+                    <div class="pair-amt">
+                        <label class="radio-container">3 pair<p class="dkk">DKK 528.00</p>
+                            <input type="radio" checked="checked" name="radio" onclick="changeColor(this)"">
+                            <span class="checkmark"></span>
+                          </label>
+                    </div>
+                    <div class="offer">
+                        <p>60% OFF</p>
+                    </div>
+                </div>
+            </div>
+            <div class="add-cart">
+                <div class="cart-total">
+                    <p style="color: #007f61;">Free 2 Day Shipping</p>
+                    <p>Total: <b>DKK 360.00</b></p>
+                </div>
+                <button class="cart-button">+Add to Cart</button>
+                <p class="copy-right">&copy;<i>Powered by Pumper</i></p>
+            </div>
+        </div>
+    </div>
+</body>
+<script></script>
+</html>
